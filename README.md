@@ -7,8 +7,8 @@ Third: determining the coordinates of the receiver if the transmitter's coordina
 
 The project is written in Python,So prior understanding of the language is required. 
 The additional libraries used are as follows: 
->> math 
->> subprocess  
->> numpy 
->> time 
->> openpyxl
+1. math 
+2. subprocess  
+3. numpy 
+4. time 
+5. openpyxl
